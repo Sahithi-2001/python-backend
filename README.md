@@ -1,5 +1,5 @@
 # # GitHub Task Tracker API
-(Python Backend Engineer Take Home Assessment)
+
 
 ## Overview
 This project implements a REST API service using **FastAPI** and **PostgreSQL**.  
